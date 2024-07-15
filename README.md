@@ -24,6 +24,11 @@ To install the BetterDiscord Cyan Theme, follow these steps:<br>
 --background-image: url('https://raw.githubusercontent.com/denysovski/CyanTheme/main/cyan.jpg'); /* app background image (link must be HTTPS) [default: url(https://github.com/denysovski/CyanTheme/blob/main/cyan.jpg)] */
 ```
 
+## How to change background image with local source?
+> This is not possible. The application front end does not have filesystem access due to security problems that may arise from it. Theoretically this can be re-enabled with a plugin. But the use-case is very niche, and you are likely better off just using an online host. - RDG-01, Theme developer
+</br>
+Main source https://www.reddit.com/r/BetterDiscord/comments/1aib1vo/how_to_use_local_url_pulls_for_themes/
+
 ## How to change background image via online link?
 The easiest solution to change the background image by changing url('') with the source URL of your image</br>
 Be aware that when the image from online source gets deleted, you won't get to see the theme in Discord anymore.
@@ -53,5 +58,8 @@ Harder and much longer way to change background image, but more efficient, becau
 Feel free to download and enjoy the BetterDiscord Cyan Theme. If you like it, consider giving this repository a star 💧!
 </br>
 All credits to original author - https://github.com/ClearVision/ClearVision-v6
+</br>
+</br>
+This page provides a quick tutorial on how to set up my modified cyan theme and change the background, thanks for reading until the end.
 
 ![image](https://github.com/user-attachments/assets/7b1a01a6-84d7-4051-8c88-a0091d2585f0)
