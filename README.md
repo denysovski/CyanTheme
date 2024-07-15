@@ -21,7 +21,7 @@ To install the BetterDiscord Cyan Theme, follow these steps:<br>
 ## Background-image property
 
 ```
---background-image: url('https://raw.githubusercontent.com/denysovski/CyanTheme/main/cyan.jpg'); /* app background image (link must be HTTPS) [default: url(https://github.com/denysovski/CyanTheme/blob/main/cyan.jpg)] */
+--background-image: url('https://raw.githubusercontent.com/denysovski/CyanTheme/main/cyan.jpg');
 ```
 
 ## How to change background image with local source?
@@ -37,7 +37,7 @@ Be aware that when the image from online source gets deleted, you won't get to s
 - Replace the background-image property url('') to your image URL
 
 ```
---background-image: url('https://img.freepik.com/free-photo/vivid-blurred-colorful-wallpaper-background_58702-3784.jpg'); /* app background image (link must be HTTPS) [default: url(https://img.freepik.com/free-photo/vivid-blurred-colorful-wallpaper-background_58702-3784.jpg)] */
+--background-image: url('https://img.freepik.com/free-photo/vivid-blurred-colorful-wallpaper-background_58702-3784.jpg');
 ```
 
 - Save the code and upload it back to the folder - repeat steps in **Installation** part
@@ -49,7 +49,7 @@ Harder and much longer way to change background image, but more efficient, becau
 - Replace the link property to your own values
 
 ```
---background-image: url('https://raw.githubusercontent.com/Jason/JasonBack/main/CyanBack.jpg'); /* app background image (link must be HTTPS) [default: url(https://github.com/Jason/JasonBack/blob/main/CyanBack.jpg)] */
+--background-image: url('https://raw.githubusercontent.com/Jason/JasonBack/main/CyanBack.jpg');
 ```
 
 - Save the code and upload it back to the folder - repeat steps in **Installation** part
