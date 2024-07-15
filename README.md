@@ -22,4 +22,4 @@ To install the BetterDiscord Cyan Theme, follow these steps:<br>
 In case you want different background image in Discord, make sure to change the CSS background-image property to your local/online image source.<br>
 Feel free to download and enjoy the BetterDiscord Cyan Theme. If you like it, consider giving this repository a star 💧!
 
-![image](https://github.com/user-attachments/assets/cc862d12-7029-45ab-95dd-ce9f9074575d)
+![image](https://github.com/user-attachments/assets/7b1a01a6-84d7-4051-8c88-a0091d2585f0)
