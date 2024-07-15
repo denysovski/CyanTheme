@@ -23,3 +23,5 @@ In case you want different background image in Discord, make sure to change the 
 Feel free to download and enjoy the BetterDiscord Cyan Theme. If you like it, consider giving this repository a star 💧!
 
 ![image](https://github.com/user-attachments/assets/7b1a01a6-84d7-4051-8c88-a0091d2585f0)
+
+All credits to original author - **https://github.com/ClearVision/ClearVision-v6**
