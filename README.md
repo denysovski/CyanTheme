@@ -25,7 +25,7 @@ To install the BetterDiscord Cyan Theme, follow these steps:<br>
 ```
 
 ## How to change background image with local source?
-> This is not possible. The application front end does not have filesystem access due to security problems that may arise from it. Theoretically this can be re-enabled with a plugin. But the use-case is very niche, and you are likely better off just using an online host. - RDG-01, Theme developer
+> „This is not possible. The application front end does not have filesystem access due to security problems that may arise from it. Theoretically this can be re-enabled with a plugin. But the use-case is very niche, and you are likely better off just using an online host.“ - RDG-01, Theme developer
 </br>
 Main source https://www.reddit.com/r/BetterDiscord/comments/1aib1vo/how_to_use_local_url_pulls_for_themes/
 
